@@ -6,22 +6,18 @@ package com.mycompany.burmashave;
 
 /**
  *
- * @author 25019666
+ * @author SHONISANI
  */
 import javax.swing.JOptionPane;
 public class BurmaShave {
 
     public static void main(String[] args) {
-        String [] Rhyme ={
-           "Shaving brushes",
-           "You'll soon see 'em",
-           "In some museum",
-           "Burma Shave"
-        };
-    for(String line: Rhyme){
-        JOptionPane.showMessageDialog(null, line,"Burma Shave",
-                JOptionPane.INFORMATION_MESSAGE);
-                
-    }
+      JOptionPane.showMessageDialog(null,"Shaving brushes");
+      JOptionPane.showMessageDialog(null,"You'll soon see 'em");
+      JOptionPane.showMessageDialog(null,"On a shelf");
+      JOptionPane.showMessageDialog(null,"In some museum");
+      JOptionPane.showMessageDialog(null,"Burma Shave");
+     
+       
     }
 }
