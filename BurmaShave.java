@@ -6,7 +6,7 @@ package com.mycompany.burmashave;
 
 /**
  *
- * @author SHONISANI
+ * @author 25019666
  */
 import javax.swing.JOptionPane;
 public class BurmaShave {
